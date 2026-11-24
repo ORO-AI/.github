@@ -11,6 +11,7 @@ Our initial offering is business environments for model builders to evaluate and
 | | |
 |---|---|
 | Report and leaderboard | https://oroagents.com/benchmarks/smb-bench |
+| Paper (arXiv) | https://arxiv.org/abs/2611.28158 |
 | Every run on its own page | https://oroagents.com/smb-bench/runs |
 | Code to recompute the published numbers | https://github.com/ORO-AI/smb-bench |
 | Every scored run and its trace | https://huggingface.co/datasets/oro-agents/smb-bench |
